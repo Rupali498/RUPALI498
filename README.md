@@ -1,5 +1,5 @@
-# RUPALI498
-# Hi, I'm Rupali 👋
+
+# Hi, I'm Rupali 
 
 > Cyber Security student at VIT Bhopal, learning to break things responsibly and build tools that matter — mostly in **Python**.
 
