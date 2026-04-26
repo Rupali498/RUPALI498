@@ -60,9 +60,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RUPALI498&hide_border=true&theme=default"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RUPALI498&no-frame=true&row=1&column=6&margin-w=10"/>
-</p>
 
 
 ---
