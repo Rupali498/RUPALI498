@@ -51,11 +51,18 @@
 
 ## 📊 GitHub Stats
 
+📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RUPALI498&theme=default&hide_border=true&include_all_commits=true&count_private=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUPALI498&theme=default&hide_border=true&layout=compact" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=RUPALI498&show_icons=true&hide_border=true&count_private=true&theme=default" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RUPALI498&layout=compact&hide_border=true&theme=default" height="150"/>
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RUPALI498&hide_border=true&theme=default"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RUPALI498&no-frame=true&row=1&column=6&margin-w=10"/>
+</p>
 
 
 ---
