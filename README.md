@@ -21,7 +21,7 @@
 
 - 🎓 **VIT Bhopal**
 - 📍 **India**
-- 📅 **1st Year, CSE — Cyber Security track**
+- 📅 **1st Year, CSE — Cyber Security and digital forensics**
 - 🔭 **Building in public**
 - 📫 **Open to collaborate**
 
