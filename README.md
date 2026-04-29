@@ -9,8 +9,8 @@
 
 | Skill | Level |
 |---|---|
-| 🐍 Python | `main` |
-| 🛡️ Cyber Security | `main` |
+| 🐍  Python | `main` |
+| 🛡️ Cyber Security | `learning` |
 | ➕ C++ | `learning` |
 | 🤖 Machine Learning | `learning` |
 | 🌐 Web Dev | `exploring` |
@@ -42,10 +42,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
